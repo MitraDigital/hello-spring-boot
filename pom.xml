@@ -5,10 +5,10 @@
   <modelVersion>4.0.0</modelVersion>
 
   <groupId>com.mitrai.sample</groupId>
-  <artifactId>sample-spring-app</artifactId>
+  <artifactId>hello-spring-boot</artifactId>
   <version>1.0-SNAPSHOT</version>
 
-  <name>sample-spring-app</name>
+  <name>hello-spring-boot</name>
   <url>http://www.mitrai.com</url>
 
   <parent>
